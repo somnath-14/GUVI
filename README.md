@@ -15,7 +15,7 @@
   <li>AJAX</li>
   <li>MySQL</li>
  </ol>
-<h6>L Somnath</h6>
+<h6>-L Somnath</h6>
 </body>
 </html>
 
